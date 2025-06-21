@@ -32,7 +32,7 @@ A web-based simulator for the Black-Scholes model, implemented in Python with a 
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
-3. Install dependencies (add requirements.txt if present):
+3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
